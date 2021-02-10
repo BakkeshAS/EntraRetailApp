@@ -1,0 +1,8 @@
+				 Daily Sales Report
+		 Report Generation Date & Time: 08-01-2021 7:55 PM
+
+Sl.No. 	Item: 			Size: 		Quantity Sold: 	Price: 	
+1	Carrot                                          	1000 Grams            	1		€1	
+2	Siced Pan                                    	800 Grams              	1		€1.5	
+3	Carrot                                          	2000 Grams            	3		€1.75	
+4	Whole Milk                                  	3 Litre                  	2		€2	

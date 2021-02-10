@@ -1,0 +1,19 @@
+				 Daily Sales Report
+		 Report Generation Date & Time: 07-01-2021 10:05 PM
+
+Sl.No. 	Item: 			Size: 		Quantity Sold: 	Price: 	
+1	Whole Milk                                  	1 Litre                  	8		€1	
+1	Fresh Berries                            	250 Grams              	2		€4	
+1	Apple                                            	1000 Grams            	1		€2	
+1	Carrot                                          	1000 Grams            	1		€1	
+1	Tomato                                          	250 Grams              	1		€1	
+1	Siced Pan                                    	800 Grams              	1		€1.5	
+1	Free Range Large Eggs            	6 Piece                  	1		€2	
+1	Free Range Medium Eggs          	6 Piece                  	1		€1.6	
+1	Gilma Red Wine                          	30cl                        	1		€3	
+1	Gilma Red Wine                          	75cl                        	1		€8	
+1	Whole Milk                                  	2 Litre                  	5		€1.5	
+1	Whole Milk                                  	3 Litre                  	5		€2	
+1	Olive Oil Extra Virgin          	500 Millilitre    	1		€2.85	
+1	Kellogg’s Wheat Flakes         	900 Grams              	1		€6.25	
+1	Desante Rose Wine                    	30cl                        	1		€7	

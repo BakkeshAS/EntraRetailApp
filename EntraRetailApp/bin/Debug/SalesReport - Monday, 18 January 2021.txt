@@ -1,0 +1,5 @@
+				 Daily Sales Report
+		 Report Generation Date & Time: 18-01-2021 10:40 AM
+
+Sl.No. 	Item: 			Size: 		Quantity Sold: 	Price: 	
+1	Whole Milk                                  	2 Litre                  	1		₹ 1.50	

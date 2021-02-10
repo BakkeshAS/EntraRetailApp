@@ -1,0 +1,13 @@
+				 Daily Sales Report
+		 Report Generation Date & Time: 10-01-2021 9:15 PM
+
+Sl.No. 	Item: 			Size: 		Quantity Sold: 	Price: 	
+1	Whole Milk                                  	1 Litre                  	2		₹ 1.00	
+2	Siced Pan                                    	800 Grams              	1		₹ 1.50	
+3	Free Range Large Eggs            	12 Piece                	2		₹ 3.20	
+4	Tomato                                          	500 Grams              	3		₹ 2.00	
+5	Carrot                                          	2000 Grams            	10		₹ 1.75	
+6	Whole Milk                                  	3 Litre                  	5		₹ 2.00	
+7	Fresh Berries                            	500 Grams              	1		₹ 6.50	
+8	Whole Milk                                  	2 Litre                  	1		₹ 1.50	
+9	Carrot                                          	1000 Grams            	4		₹ 1.00	
